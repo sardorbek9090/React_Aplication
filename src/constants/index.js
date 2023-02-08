@@ -1,0 +1,1 @@
+export const logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFqKBepkWTU0NDn07QiNera1ixJ0GPlEG4jp0t51iPatxolNj7A3F0itsPg38X7285B0&usqp=CAU'
