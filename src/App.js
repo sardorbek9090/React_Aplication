@@ -1,5 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import { Login, Main, Navbar, Register } from "./component";
+import './App.css'
 
 
 function App() {

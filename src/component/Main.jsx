@@ -1,4 +1,3 @@
-import React from 'react'
 
 const Main = () => {
   return (
@@ -6,4 +5,4 @@ const Main = () => {
   )
 }
 
-export default Main
+export default Main  
